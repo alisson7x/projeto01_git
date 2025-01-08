@@ -1,3 +1,3 @@
 # Projeto 01
 
-Meu primeiro projeto usando o git e github-
+Meu primeiro projeto usando o git e github
